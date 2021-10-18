@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    tools:context=".ui.detail.DzikirPetangActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_dzikir_petang"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_rv_dzikir_petang"
+        android:padding="8dp"
+        tools:listitem="@layout/row_item_doa" />
+</LinearLayout>

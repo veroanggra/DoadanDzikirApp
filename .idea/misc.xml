@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_detail_artikel.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_dzikir_pagi.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_dzikir_petang.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_harian_dzikir_doa.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_main.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_pagi_petang_dzikir.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_qauliyah_shalat.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_setiap_saat_dzikir.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/fragment_artikel.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/SHAAARK/AndroidStudioProjects/DoadanDzikirApp/app/src/main/res/layout/row_item_doa.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/layout/activity_dzikir_pagi.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/activity_dzikir_petang.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_harian_dzikir_doa.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/activity_pagi_petang_dzikir.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/activity_qauliyah_shalat.xml" value="0.21195652173913043" />
+        <entry key="app/src/main/res/layout/activity_setiap_saat_dzikir.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/fragment_artikel.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/row_item_doa.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

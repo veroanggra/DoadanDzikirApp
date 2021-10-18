@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DoadanDzikirApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="NoActionBar" parent="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_splash_screen</item>
+        <item name="android:statusBarColor">@color/blue</item>
+    </style>
+
+    <style name="PagiActivity" parent="Theme.DoadanDzikirApp">
+        <item name="android:statusBarColor">@color/morning_blue</item>
+        <item name="colorPrimary">@color/morning_blue</item>
+        <item name="title">Dzikir Pagi</item>
+    </style>
+
+    <style name="PetangActivity" parent="Theme.DoadanDzikirApp">
+        <item name="android:statusBarColor">@color/afternoon_orange</item>
+        <item name="colorPrimary">@color/afternoon_orange</item>
+        <item name="title">Dzikir Petang</item>
+    </style>
+
+</resources>
